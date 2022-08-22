@@ -1,2 +1,3 @@
 PRODUCT_PACKAGES += \
-    DarkBgOverlay
+    DarkBgOverlay \
+    ImmersiveNavigationOverlay
