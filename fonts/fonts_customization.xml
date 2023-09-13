@@ -84,6 +84,34 @@
   <alias name="barlow-bold" to="barlow" weight="700"/>
   <alias name="barlow-medium" to="barlow" weight="500"/>
 
+    <family customizationType="new-named-family" name="Chirp">
+        <font weight="200" style="normal">Chirp.ttf</font>
+    </family>
+    <alias name="Chirp-medium" to="Chirp" weight="500" />
+    <alias name="Chirp-semi-bold" to="Chirp" weight="600" />
+    <alias name="Chirp-bold" to="Chirp" weight="700" />
+
+    <family customizationType="new-named-family" name="Circe">
+        <font weight="200" style="normal">Circe.ttf</font>
+    </family>
+    <alias name="Circe-medium" to="Circe" weight="500" />
+    <alias name="Circe-semi-bold" to="Circe" weight="600" />
+    <alias name="Circe-bold" to="Circe" weight="700" />
+
+    <family customizationType="new-named-family" name="Euclid">
+        <font weight="200" style="normal">Euclid.ttf</font>
+    </family>
+    <alias name="Euclid-medium" to="Euclid" weight="500" />
+    <alias name="Euclid-semi-bold" to="Euclid" weight="600" />
+    <alias name="Euclid-bold" to="Euclid" weight="700" />
+
+    <family customizationType="new-named-family" name="Fluid">
+        <font weight="200" style="normal">Fluid.ttf</font>
+    </family>
+    <alias name="Fluid-medium" to="Fluid" weight="500" />
+    <alias name="Fluid-semi-bold" to="Fluid" weight="600" />
+    <alias name="Fluid-bold" to="Fluid" weight="700" />
+
     <family customizationType="new-named-family" name="manrope">
     <font weight="500" style="normal">Manrope-VF.ttf
         <axis tag="wght" stylevalue="500"/>
@@ -195,6 +223,13 @@
         <font weight="900" style="italic">HarmonyOS-Sans-BlackItalic.ttf</font>
     </family>
     <alias name="harmonyos-sans-medium" to="harmonyos-sans" weight="500"/>
+
+    <family customizationType="new-named-family" name="SFPro">
+        <font weight="200" style="normal">SFPro.ttf</font>
+    </family>
+    <alias name="SFPro-medium" to="SFPro" weight="500" />
+    <alias name="SFPro-semi-bold" to="SFPro" weight="600" />
+    <alias name="SFPro-bold" to="SFPro" weight="700" />
 
     <family customizationType="new-named-family" name="urbanist">
     <font weight="500" style="normal">Urbanist-VF.ttf
