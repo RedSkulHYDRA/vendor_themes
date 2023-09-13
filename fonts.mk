@@ -11,6 +11,11 @@ PRODUCT_PACKAGES += \
     FontManropeOverlay \
     FontOnePlusSansOverlay \
     FontOneplusSlateSourceOverlay \
+    FontSFProOverlay \
+    FontChirpOverlay \
+    FontEuclidRoundOverlay \
+    FontFluidOverlay \
+    FontCirceOverlay \
     FontUrbanistOverlay
 
 PRODUCT_PACKAGES += \
